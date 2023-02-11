@@ -1,0 +1,74 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+body {
+    color: #00fff2;
+    background-color: #b064e6;
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar {
+    padding: 25px 40px;
+    background: linear-gradient(#df5151, #b064e6);
+}
+
+.navbar-brand {
+    font-size: 24px;
+    color: #edfe00;
+}
+
+.nav-link {
+    color: #00fff2;
+    font-size: 18px;
+}
+
+.home-body-1 {
+    margin: 22px 25px 12px;
+    padding: 25px;
+    border: 2px solid #b999cf;
+    border-radius: 5px;
+}
+
+.brand-name {
+    color: #edfe00;
+}
+
+.sub-text {
+    font-size: 20px;
+    padding: 20px 0px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 7%;
+}
+
+.form-fields {
+    text-align: center;
+    padding-top: 1%;
+}
+
+.hero-text {
+    float: left;
+}
+
+/* table {
+    border-radius: 10%;
+} */
+
+th {
+    font-size: 5000000px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 20px;
+    
+}
